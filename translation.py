@@ -50,14 +50,18 @@ class Translation(object):
 ► __If The **From Channel** Is Private Your Userbot Must Be Member In There Or Your Bot Must Need Admin Permission In There Also__
 ► __Then Use /forward To Forward Messages__"""
   
-  ABOUT_TXT = """<b>🤖 My Name :</b> {}
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+  ABOUT_TXT = """<b>ꜱᴀʀᴛʜᴀᴋ'ꜱ ʙɪᴏ ✯
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+╰─➩ ᴍʏ ɴᴀᴍᴇ - ＶＩＢＥＲ
+╰─➩ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://t.me/sarthakkale16'>ᴠɪʙᴇʀ</a>
+╰─➩ ᴛᴡɪᴛᴛᴇʀ  - <a href='https://x.com/sarthakkale16'>ᴛᴡɪᴛᴛᴇʀ </a>
+╰─➩ ᴘᴏᴡᴇʀᴇᴅ ʙʏ - <a href='https://t.me/sarthakkale16'>#ʀᴇQᴜᴇꜱᴛʙᴏx1</a>
+╰─➩ ᴅᴏʙ - 𝕩
+╰─➩ ʟᴇᴠᴇʟ - 𝕩
+╰─➩ ᴀɢᴇ - 𝕩
+╰─➩ ʜᴏʙɪᴇꜱ - ᴍᴏᴠɪᴇꜱ , ʀᴇᴀᴅɪɴɢ , ᴄᴏᴅɪɴɢ , ꜱᴇʀɪᴇꜱ
+╰─➩ ᴘʟᴀᴄᴇ - ᴘᴜɴᴇ | ᴍᴜᴍʙᴀɪ | ᴀᴍʀᴀᴠᴀᴛɪ | ᴀᴋᴏʟᴀ | ɴᴀɢᴘᴜʀ | ꜱʜᴇɢᴀᴏɴ
+╰─➩ ᴋɴᴏᴡɴ ʟᴀɴɢᴜᴀɢᴇꜱ - ᴇɴɢʟɪꜱʜ , ʜɪɴᴅɪ , ᴍᴀʀᴀᴛʜɪ , ɢᴜᴊᴀʀᴀᴛɪ </b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
